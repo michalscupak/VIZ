@@ -1,6 +1,6 @@
 # VIZ
 
-Git repository of Visualisation University course semestral project
+Git repository of Visualisation university course semestral project
 
 Libraries used:
 - Geopandas
