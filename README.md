@@ -2,7 +2,7 @@
 
 Git repository of Visualisation university course semestral project
 
-Libraries used:
+Python libraries used:
 - Geopandas
 - Bokeh
 - Networkx
